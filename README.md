@@ -1,3 +1,5 @@
+⚠️ This repo has been deprecated in favor of https://github.com/opticdev/examples. ⚠️
+
 # openapi-gen-ruby-sinatra
 
 This repo demonstrates generating an OpenAPI spec from a [Sinatra](https://sinatrarb.com) app using the [openapi-rspec](https://github.com/exoego/rspec-openapi) gem. Despite using Sinatra for brevity, the generation method demonstrated here is applicable to Rails and likely other Rack-based frameworks.
